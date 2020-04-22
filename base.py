@@ -4,7 +4,9 @@ from Chef import Chef
 from ChineseChef import ChineseChef
 
 print("\n--simple hello world print, print is a function--")
-print("hello world")
+
+print("hello world, this is the first program!")
+
 
 
 print("\n--variable assignment--")
